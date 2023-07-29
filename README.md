@@ -1,10 +1,10 @@
 # Operating-System-Internals
 C++ implementations of various operating system internals such as process scheduling, memory management, and IO scheduling.
 
-### linker.cpp
+**linker.cpp**
 
-### sched.cpp
+**sched.cpp**
 
-### mmu.cpp
+**mmu.cpp**
 
-### iosched.cpp
+**iosched.cpp**
